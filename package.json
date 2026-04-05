@@ -1,0 +1,19 @@
+{
+  "name": "moheshwar",
+  "version": "1.0.0",
+  "description": "Description of Moheshwar Amarnath Biswas",
+  "license": "MIT",
+  "author": "Moheshwar Amarnath Biswas",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2",
+    "@types/node": "^25.5.2"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
