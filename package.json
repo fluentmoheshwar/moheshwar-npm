@@ -6,6 +6,9 @@
   "author": "Moheshwar Amarnath Biswas",
   "type": "module",
   "main": "dist/index.js",
+  "bin": {
+    "moheshwar": "dist/index.js"
+  },
   "scripts": {
     "build": "tsc"
   },
