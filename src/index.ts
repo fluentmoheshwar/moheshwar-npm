@@ -1,4 +1,5 @@
-import chalk from "chalk";
+#!/usr/bin/env node
+import * as pc from "picocolors";
 
 const username: string = "fluentmoheshwar";
 const email: string = "sayhi@moheshwar.com";
@@ -9,21 +10,21 @@ console.log(`\nSoftware Developer proficient in building quality websites and ap
 `);
 
 console.log(`Links: `);
-console.log(`Find me on web: ${chalk.blueBright("https://moheshwar.com")}`);
+console.log(`Find me on web: ${pc.blue("https://moheshwar.com")}`);
 console.log(
-  `You can find me on Facebook: ${chalk.blueBright(`https://facebook.com/${username}`)}`,
+  `You can find me on Facebook: ${pc.blue(`https://facebook.com/${username}`)}`,
 );
 console.log(
-  `You can find me on X: ${chalk.blueBright(`https://x.com/${username}`)}`,
+  `You can find me on X: ${pc.blue(`https://x.com/${username}`)}`,
 );
 console.log(
-  `You can find me on Threads: ${chalk.blueBright(`https://threads.com/${username}`)}`,
+  `You can find me on Threads: ${pc.blue(`https://threads.com/${username}`)}`,
 );
 console.log(
-  `You can find me on Instagram: ${chalk.blueBright(`https://instagram.com/${username}`)}`,
+  `You can find me on Instagram: ${pc.blue(`https://instagram.com/${username}`)}`,
 );
 console.log(
-  `You can find me on Bluesky: ${chalk.blueBright("https://bsky.app/profile/moheshwar.com")}`,
+  `You can find me on Bluesky: ${pc.blue("https://bsky.app/profile/moheshwar.com")}`,
 );
 console.log(`You can also reach me at: ${email}`);
 

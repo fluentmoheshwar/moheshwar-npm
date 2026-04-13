@@ -1,6 +1,6 @@
 {
   "name": "moheshwar",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Description of Moheshwar Amarnath Biswas",
   "license": "MIT",
   "author": "Moheshwar Amarnath Biswas",
@@ -17,6 +17,6 @@
     "@types/node": "^25.5.2"
   },
   "dependencies": {
-    "chalk": "^5.6.2"
+    "picocolors": "^1.1.1"
   }
 }
