@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import * as pc from "picocolors";
+import pc from "picocolors";
 
 const username: string = "fluentmoheshwar";
 const email: string = "sayhi@moheshwar.com";
@@ -14,9 +14,7 @@ console.log(`Find me on web: ${pc.blue("https://moheshwar.com")}`);
 console.log(
   `You can find me on Facebook: ${pc.blue(`https://facebook.com/${username}`)}`,
 );
-console.log(
-  `You can find me on X: ${pc.blue(`https://x.com/${username}`)}`,
-);
+console.log(`You can find me on X: ${pc.blue(`https://x.com/${username}`)}`);
 console.log(
   `You can find me on Threads: ${pc.blue(`https://threads.com/${username}`)}`,
 );
