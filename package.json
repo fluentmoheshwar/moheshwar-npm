@@ -1,6 +1,6 @@
 {
   "name": "moheshwar",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Description of Moheshwar Amarnath Biswas",
   "license": "MIT",
   "author": "Moheshwar Amarnath Biswas",
@@ -13,8 +13,8 @@
     "build": "tsc"
   },
   "devDependencies": {
-    "typescript": "^6.0.2",
-    "@types/node": "^25.5.2"
+    "typescript": "^6.0.3",
+    "@types/node": "^25.9.4"
   },
   "dependencies": {
     "picocolors": "^1.1.1"
