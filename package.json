@@ -1,8 +1,21 @@
 {
   "name": "moheshwar",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Description of Moheshwar Amarnath Biswas",
   "license": "MIT",
+  "keywords": [
+    "moheshwar",
+    "amarnath",
+    "biswas"
+  ],
+  "homepage": "https://github.com/fluentmoheshwar/moheshwar-npm#readme",
+  "bugs": {
+    "url": "https://github.com/fluentmoheshwar/moheshwar-npm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluentmoheshwar/moheshwar-npm.git"
+  },
   "author": "Moheshwar Amarnath Biswas",
   "type": "module",
   "main": "dist/index.js",
